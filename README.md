@@ -14,9 +14,6 @@
 
 This project explores **retail shipment and delivery performance** using Excel-based data analysis.
 
-The workflow followed a clear end-to-end path:
-$$\text{Raw Data} \longrightarrow \text{Cleaning \& Tables} \longrightarrow \text{Calculated Fields} \longrightarrow \text{Pivot Analysis} \longrightarrow \text{Operational Insights}$$
-
 The core evaluation focuses on **Service Level Agreement (SLA) performance, shipment weight, delivery delays, and transit modes** to pinpoint operational bottlenecks rather than just reporting high-level numbers.
 
 ---
